@@ -329,3 +329,15 @@ a {
 .control-range::-webkit-slider-runnable-track:hover {
   background-color: #1bd760; /* Turns green on hover */
 }
+/* 1. Stop the browser window / body from scrolling */
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden; 
+}
+
+/* 2. Target your main content container and make it scrollable */
+.main-content { /* Replace with the actual class/ID of your main scrolling container */
+  height: 100vh;
+  overflow-y: auto;
+}
