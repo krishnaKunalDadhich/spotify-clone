@@ -27,4 +27,4 @@ A feature-rich, responsive frontend clone of **Spotify**, built using pure **HTM
 To run this project locally on your machine, follow the link:
 
    ```bash
-   https://github.com/krishnakunaldadhich/spotify-clone.git
+   https://krishnakunaldadhich.github.io/spotify-clone/
